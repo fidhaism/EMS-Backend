@@ -1,0 +1,17 @@
+EMPLOYMENT MANAGEMENT SYSTEM - BACKEND
+----------------------------------------------------------------------------------------------------------------------
+1. Create a folder for backend (ems-backend) in EMPLOYMENT MANAGEMENT SYSTEM folder
+
+2. Create package.json file 
+    -> npm init -y
+
+3. install node_modules, express and cors 
+    -> npm i express cors
+        
+*What is EXPRESS? - Express is a minimal and flexible Node.js web application framework 
+                    that provides a robust set of features for web and mobile applications.
+
+*What is CORS? - Cross-origin resource sharing (CORS) is a browser security feature that 
+                 allows web pages to access resources from other domains.
+
+4. 
